@@ -21,7 +21,6 @@ Files in this folder
 - `customer_data_analysis_dashboard` — Power BI file
 - `customer_data_analysis_ppt` — project presentation
 - `customer_data_analysis_report` — analysis report
-- `dataset` — dataset used for the analysis
 - `dashboard-screenshots/` — dashboard views and visualizations
 
 Tools
