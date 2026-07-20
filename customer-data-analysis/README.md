@@ -14,15 +14,14 @@ What I Did
 Key Metrics
 - ₹251.51M in revenue analyzed
 - 299K units sold
-- DAX-based KPIs
+- 4 DAX-based KPIs
 - 10 visualizations
-  
-Files in this folder
--customer_data_analysis_dashboard — Power BI file
--customer_data_analysis_ppt — project presentation
--customer_data_analysis_report — analysis report
--overview.png, dashboard.png — dashboard screenshots
 
+Files in this folder
+- `customer_data_analysis_dashboard` — Power BI file
+- `customer_data_analysis_ppt` — project presentation
+- `customer_data_analysis_report` — analysis report
+- `overview.png`, `dashboard.png` — dashboard screenshots
 
 Tools
 Power BI, DAX, Power Query
