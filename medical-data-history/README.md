@@ -19,6 +19,6 @@ Files in this folder
 - medical_data_history — queries used (Word file)
 - medical_data_history — analysis report (PDF file)
 - medical_data_history — SQL file
-- 
+
 Tools
 MySQL, SQL
