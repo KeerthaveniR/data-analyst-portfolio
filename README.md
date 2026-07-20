@@ -20,9 +20,9 @@ Built an interactive Power BI dashboard analyzing 99K+ customer transactions wit
 Tools: Power BI, DAX, Power Query
 
 📫 Contact
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/keerthavenir
 - Email: keerthaveni2001@gmail.com
 
-  
+   
 *More projects coming soon.*
 
